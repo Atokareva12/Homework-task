@@ -32,7 +32,7 @@ $array = array(
     echo "А этот товарищ < ";
     echo $array[$rand_keys[1]] . "\n";
     echo " > был пойман за угон автомобиля."."<br>";
-    echo "Этот товарищ < ";
+    echo " товарищ < ";
     echo $array[$rand_keys[2]] . "\n";
     echo " > был с ним за одно."."<br>";
 ?>
