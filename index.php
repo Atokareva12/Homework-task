@@ -26,7 +26,7 @@ $array = array(
     echo "</pre>";
 
     $rand_keys = array_rand($array, 3); // сам код с тремя преступниками
-    echo "Товарищ < ";
+    echo " Товарищ < ";
     echo $array[$rand_keys[0]] . "\n";
     echo " > является преступником посадить на пожизненное. "."<br>";
     echo "А этот товарищ < ";
